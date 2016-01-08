@@ -125,6 +125,10 @@ main{
 	font-size: 18px;
 }
 
+p a{
+	text-decoration: underline;
+}
+
 
 /* ============================================================
   MEDIA QUERIES 600-960PX
