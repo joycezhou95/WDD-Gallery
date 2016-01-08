@@ -38,7 +38,7 @@ main{
 }
 
 .item img{
-	width: inherit;
+	width: 300px;
 }
 
 .description {
@@ -47,7 +47,7 @@ main{
 	margin-top: -70px;
 	padding: 10px;
 	opacity: 0;
-	background: rgba(255,255,255,.75);
+	background: rgba(255,255,255,.85);
 	color: #505050;
 }
 
@@ -148,7 +148,7 @@ main{
 	}
 
 	.item img{
-		width: inherit;
+		width: 250px;
 	}
 
 }
@@ -173,7 +173,7 @@ main{
 	}
 
 	.item img{
-		width: inherit;
+		width: 400px;
 	}
 
 	#about{
