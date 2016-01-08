@@ -51,6 +51,14 @@ main{
 	color: #505050;
 }
 
+.semester{
+	font-size: 25px;
+	font-weight: 400;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 15px 0;
+}
+
 /* start  main hover effects */
 .description {
 	-webkit-transform: translateY(100%);
@@ -159,9 +167,9 @@ main{
 	}
 
 	.item{
-		width: 415px;
+		width: 400px;
 		display: inline-block;
-		margin: 30px 30px;
+		margin: 30px 39px;
 	}
 
 	.item img{
