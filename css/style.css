@@ -121,10 +121,8 @@ main{
 	width: 300px;
 	display: block;
 	margin: 0 auto;
-}
-
-#social-media-item{
-	display: inline-block;
+	text-align: center;
+	font-size: 18px;
 }
 
 
@@ -178,10 +176,6 @@ main{
 
 	#about{
 		width: 400px;
-	}
-
-	#social-media-container{
-		display: inline-block;
 	}
 
 }
